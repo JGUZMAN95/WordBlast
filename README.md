@@ -1,24 +1,4 @@
-# Assignment 4 - Word Blast
-
-Welcome to your fourth homework assignment.  
-
-Again, code should be neat, well documented.  Variables should have meaningful names and be in a consistent format (I do not care if you use camelCase or under_scores in variables but be consistent.  In addition, each file should have a standard header as defined below.  Remember your line length limits of generally 80 characters and no more than 100.
-```
-/**************************************************************
-* Class:  CSC-415-0# Summer 2021
-* Name:
-* Student ID:
-* GitHub ID:
-* Project: Assignment 4 – Word Blast
-*
-* File: <name of this file>
-*
-* Description:
-*
-**************************************************************/
-```
-
-This is an INDIVIDUAL assignment written in C.  You can (and should) work in groups to research how to do the assignment, but each person should code their own version and make their own submission.
+# Word Blast
 
 For this assignment, your program is to read War and Peace (a text copy is included with this assignment) and it is to count and tally each of the words that are 6 or more characters long.  And again, you will only use Linux (not library) file functions, i.e. open, close, read, lseek,f pread.
 
@@ -80,21 +60,3 @@ Number 9 is Rostóv with a count of 776
 Number 10 is thought with a count of 767
 Total Time was 1.938852743 seconds
 ```
-
-
-
-**Grading Rubric**
-| Grade Item                     | Grade Points |
-|--------------------------------|--------------|
-| Header                         |            2 |
-| Documented Code                |            8 |
-| Command Line Arg.              |            5 |
-| Used Threads                   |           10 |
-| Used and Displayed Timer Code  |            5 |
-| Runs to Completion             |           10 |
-| Correct Output                 |           15 |
-| Double Thread 1/2 time         |           15 |
-| Proper Use of Critical Section |           10 |
-| Writeup                        |           20 |
-
-
